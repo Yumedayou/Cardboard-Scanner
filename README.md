@@ -3,12 +3,12 @@ TCG Scanner app
 Scans cards using OCR and adds them to collections
 
 to do: 
-change expo-camera to vision-camera-ocr
-add grand archive api for card database
-lay groundwork to add other TCGs in the future
-Think of a better name
-Add binder and deck features
-Card wishlist feature
+change expo-camera to vision-camera-ocr\n
+add grand archive api for card database\n
+lay groundwork to add other TCGs in the future\n
+Think of a better name\n
+Add binder and deck features\n
+Card wishlist feature\n
 
 way down the line:
 integrate this into tappd
